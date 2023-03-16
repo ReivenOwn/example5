@@ -1,0 +1,5 @@
+C:\Users\ReivenOwn\Desktop\Example3\example3\task27\obj\Debug\net7.0\task27.csproj.AssemblyReference.cache
+C:\Users\ReivenOwn\Desktop\Example3\example3\task27\obj\Debug\net7.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ReivenOwn\Desktop\Example3\example3\task27\obj\Debug\net7.0\task27.AssemblyInfoInputs.cache
+C:\Users\ReivenOwn\Desktop\Example3\example3\task27\obj\Debug\net7.0\task27.AssemblyInfo.cs
+C:\Users\ReivenOwn\Desktop\Example3\example3\task27\obj\Debug\net7.0\task27.csproj.CoreCompileInputs.cache
